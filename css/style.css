@@ -58,8 +58,5 @@ img {
 
 h2 {
     text-align: center;
-}
-
-div h2:hover {
-    color: crimson;
+    color: #4a4a4f;
 }
