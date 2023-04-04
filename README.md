@@ -1,4 +1,4 @@
-# My very first websitE
+# My very first website
 
 Welcome! [Code Institute](https://codeinstitute.net)
 
